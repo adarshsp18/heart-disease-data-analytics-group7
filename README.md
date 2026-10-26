@@ -48,7 +48,6 @@ The tests are exploratory comparisons selected after EDA. They assume independen
 - `Heart_Disease_Analysis.ipynb` — executable analysis with saved outputs.
 - `heart.csv` — unchanged input data.
 - `Team_07.pdf` — submission report.
-- `Team_07.docx` — editable report; the three contribution fields are intentionally blank.
 - `requirements.txt` — analysis imports and Jupyter Notebook, pinned to the verified environment.
 
-Submit the notebook, CSV and PDF to the LMS. Complete the contribution fields in the editable report before submission if your instructor requires them, and export the updated PDF.
+Submit the notebook, CSV and PDF to the LMS.
