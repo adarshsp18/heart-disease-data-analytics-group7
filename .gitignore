@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+tmp/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.log
+*.zip
+~$*
+.DS_Store
+Thumbs.db
+Mini_Project_Report_Template*.docx
+Heart_Disease_Mini_Project_Report*.docx
+Heart_Disease_Analysis_extended.ipynb
